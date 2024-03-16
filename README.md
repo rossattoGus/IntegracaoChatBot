@@ -21,3 +21,4 @@ Roles needed: Developer
 
 ### Quem puder me ajudar no aprendizado eu agradeço.
 respondo por email: rossatto.gus@gmail.com
+link do anuncio: https://www.workana.com/job/bitrix24-and-chatbot-integration?ref=projects_1
